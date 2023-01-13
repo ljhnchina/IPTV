@@ -103,15 +103,15 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视高清",海南卫视高清
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场-4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K频道",欢笑剧场-4K
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV-4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",星空卫视
 http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
