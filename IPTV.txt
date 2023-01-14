@@ -16,7 +16,7 @@ CCTV14少儿,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv
 CCTV15音乐,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV16奥林匹克,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17农业农村,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-湖南频道,http://hms404nc1972679596.live.aikan.miguvideo.com/wh7f454c46tw3668008584_78444105/wd-hunanhd-2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230105140949&ContentId=265667721&timezone=UTC&mtv_session=19904b25c73e67d9cdc18f2180bcffe0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7e6355a2c1c50a4ef95a5810d2dc9629
+湖南卫视,http://hms404nc1972679596.live.aikan.miguvideo.com/wh7f454c46tw3668008584_78444105/wd-hunanhd-2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230105140949&ContentId=265667721&timezone=UTC&mtv_session=19904b25c73e67d9cdc18f2180bcffe0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7e6355a2c1c50a4ef95a5810d2dc9629
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=OTT1239620230104131655225089&m3u8_level=2
 湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
 湖南娱乐,http://124.232.233.15:6610/000000001001/201600020004/1400.m3u8?IASHttpSessionId=OTT1241220230104132259216865&m3u8_level=2
@@ -28,7 +28,7 @@ CCTV17农业农村,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/liv
 江苏卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 广西卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 四川卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-湖南频道卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+湖南卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 浙江卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 东方卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 北京卫视高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
@@ -104,7 +104,6 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playli
 欧美大片,http://epg.112114.xyz/douyu/2793084
 国产影片,http://epg.112114.xyz/douyu/5423
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
-米娅电影,http://epg.112114.xyz/douyu/6537888
 译制影片,http://epg.112114.xyz/douyu/2436390
 吴京,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw660122596_945215364/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230106060151&ContentId=265219090&timezone=UTC&mtv_session=ba152bfb2eda25905ba6cc926a1f28b6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f4c4207c6c56e4c12ffde80ed7687340
 金庸,http://hms4nc1972679557.live.aikan.miguvideo.com/wh7f454c46tw691000180_1300523434/wd_r2/virtuallive/5100181876/150/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230106060222&ContentId=265218834&timezone=UTC&mtv_session=37c9ac581303d512cfb05ec2fa01637d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=57057ac12f7e89b7fd0ff0945a31cfc8
@@ -117,15 +116,10 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playli
 刘德华,http://hms264nc1972679582.live.aikan.miguvideo.com/wh7f454c46tw962135520_1815178399/wd_r3/virtuallive/5102354855/150/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230106060653&ContentId=265667522&timezone=UTC&mtv_session=bb88d2dbf45d1f9b00019ec931536129&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c0ab1f48ffc435c2691702c71bd3a6ae
 葛优,http://hms64nc1972679563.live.aikan.miguvideo.com/wh7f454c46tw981003644_-1384117175/wd_r3/virtuallive/5102354660/150/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230106060712&ContentId=265667623&timezone=UTC&mtv_session=da2bf0154d30c2ca39b4b7db7c6cfa39&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c19a61b88b4b57b4008fcb30a21c488d
 张国荣,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw998560410_-300659652/wd_r3/virtuallive/5102354727/150/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230106060729&ContentId=265667510&timezone=UTC&mtv_session=dc6b25539930654b37c9239b99d06e03&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3813abfc5aa6d8a4efdb6d079c5ff745
-TVB 星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -140,7 +134,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 票房收割机,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/l1/c56_lb_184_600_t10/UhXg-4dWZE06Nyfr032_yCDdzwuqnK3O9VJqgu_zV9RMmyMhLvz1_9KpyhfFJQsHx6wswkUojoGpJglgEIk9hbbG3dEfX-JR3AFbkFrPQiJs8bF-biFS4g6yCWHcX76_/162300df84e9e0df46d0c2a24e470f214/c56_lb_184_600_t10.m3u8?key=0e97deed846c06c76a6124bb987f5e749&dis_t=1672924870&z=newstreamcdn_ct&pv=0.2
 票房收割机,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/l1/c56_lb_184_600_t10/vVRSjAb1hrZW35agNSOf48xq3OPAW2cW52ZW0VfgQdtmsdx0jsWWls5JOUYzDrd7NH0IgNKWFteVp9dDoANLcEQd7V-I5wbS964uq_eK0mhkgW2GI-oSP65wMnLLp2/1899f491129f76a9619d6a7162eb6f0c8/c56_lb_184_600_t10.m3u8?key=0e97deed846c06c764665fa3009b55f15&dis_t=1672991310&z=newstreamcdn_ct&pv=0.2
-怀旧剧场,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_109_600_t10/xYpxVNcOtxfaron0GxsX82Jczu2vHsTrE8U4XW6IJsD7nsHtNqNPopUlxerEJ37FekinBE3kuQCydB8XldYRFCvYo8Ws5U_00WyjSazdoprpUjIuAHEKGToPgd9Cv19k/1bcb55d0f8761123523c8c27f5374e99a/c51_lb_109_600_t10.m3u8?key=0e97deed846c06c76ca35c5ddd90e456c&dis_t=1672924947&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
+电影剧场,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_109_600_t10/xYpxVNcOtxfaron0GxsX82Jczu2vHsTrE8U4XW6IJsD7nsHtNqNPopUlxerEJ37FekinBE3kuQCydB8XldYRFCvYo8Ws5U_00WyjSazdoprpUjIuAHEKGToPgd9Cv19k/1bcb55d0f8761123523c8c27f5374e99a/c51_lb_109_600_t10.m3u8?key=0e97deed846c06c76ca35c5ddd90e456c&dis_t=1672924947&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
 豆瓣高分,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_112_1080P_t10/Rq1sCLL5uWVa_bhBxhDeyNR2nFYl4AVCTGQI9vqoQfwIc0ryPGO2hyvOxz3YhkDLbvZ6dPRSICtLhSLhf4TpqgpuMiXI8IoOx4N9XhgPu-haN5qZiQ_VN1qUNXXyiUmH/18d5931f4faa0447710cf194a833df839/c51_lb_112_1080P_t10.m3u8?key=0e97deed846c06c76e1b95a33cc4895a3&dis_t=1672925016&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
 华语院线,http://183.136.216.41/r/lvbaiducdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_114_1080P_t10/WriNF1Q3Q0XjS721zbaZaQpBTwF41sWQSv0EOW3mkeyN-A5T3SXYLZ77gd8leWOe1hIq2hkS1Q2eeBo7XY5_ynoXuCLkg33rSEYiPa8RogAp4VnlMgBIibjuvfaNqknB/12b4a83f3964ca10e3f80e15de5c6148c/c51_lb_114_1080P_t10.m3u8?key=0e97deed846c06c765e1b09807ea41c8f&dis_t=1672925058&z=live_baiducdn_ct&pv=0.2
 经典港片,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_110_600_t10/mVoGySjIQgYM-flNr3nHXq-4c849kFGiM5rvFTFFwd4jPZhzsore_1zgS12Pr61ILlbE9DwDnA-CojmMkrnk3HpEfwLsbVJsIhi-lMk7ZMnk8JeplHqs4NOBHLspRf32/1fca970c1b3cdb2aa7d5ec40bc4c8b4cf/c51_lb_110_600_t10.m3u8?key=0e97deed846c06c764c07c15d0ea48e5&dis_t=1672925131&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
@@ -151,7 +145,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 温情影院,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_113_600_t10/aNUzaUidN_CcZfnYfXXgslCATeNa4iFUfhUibHzaNrbMdt5M0HO0zddzQ67wBj2RjAkOfTNXrVoulZuq1mm5X3zBEGvjJG9yBd7DzqmqAwipgh-yHvstsKNPhIwXmm9E/198e0e81756da70d6c4707b0e91aa8861/c51_lb_113_600_t10.m3u8?key=0e97deed846c06c7651de5be46e616044&dis_t=1672925552&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
 日韩院线,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/l1/c53_lb_62_720P_t10/0jZJ6qIJfKqzSr79jcpQdtkcvmd4Y95TvKdk8fYx9Zj5hZp0SivwtnT7ZIdxrWBb-8KtPj0iAqpuuddxLwg3ppQLRIYMygWwSFOL7Sow6UdY21tDmNJv1L_vlfrJ9LDT/13154c345b06984c29dd2fd45b33f4809/c53_lb_62_720P_t10.m3u8?key=0e97deed846c06c76570ec432f6276c3a&dis_t=1672991278&z=live_baiducdn_ct&pv=0.2
 日韩院线,http://175.6.243.41/r/lvbaiducdnct.inter.ptqy.gitv.tv/tslive/l1/c53_lb_62_720P_t10/0jZJ6qIJfKqzSr79jcpQdtkcvmd4Y95TvKdk8fYx9Zj5hZp0SivwtnT7ZIdxrWBb-8KtPj0iAqpuuddxLwg3ppQLRIYMygWwSFOL7Sow6UdY21tDmNJv1L_vlfrJ9LDT/13154c345b06984c29dd2fd45b33f4809/c53_lb_62_720P_t10.m3u8?key=0e97deed846c06c76570ec432f6276c3a&dis_t=1672991278&z=live_baiducdn_ct&pv=0.2
-怀旧剧场,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_109_600_t10/mWa740Fxe7k-yc7tV5N_ahNCqBhUzNleF80Ko3qPsXjdmj_EBtnyST9mfMh1-AIgdguW50zsLEX5RSVdNoCjvBaq4zE9cVbX7XmoZnHMQnXaVYxz8-jy1NXlrN68DnBc/13b55d12a47b33c57de40af883d9e01ac/c51_lb_109_600_t10.m3u8?key=0e97deed846c06c761b21d1b7ca55696f&dis_t=1672991337&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
+电影剧场,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_109_600_t10/mWa740Fxe7k-yc7tV5N_ahNCqBhUzNleF80Ko3qPsXjdmj_EBtnyST9mfMh1-AIgdguW50zsLEX5RSVdNoCjvBaq4zE9cVbX7XmoZnHMQnXaVYxz8-jy1NXlrN68DnBc/13b55d12a47b33c57de40af883d9e01ac/c51_lb_109_600_t10.m3u8?key=0e97deed846c06c761b21d1b7ca55696f&dis_t=1672991337&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
 豆瓣高分,http://aliyuncoccdnct-hz.inter.ptqy.gitv.tv/tslive/l1/c51_lb_112_1080P_t10/DP9cjPfaW9XjXNjZzdiemxfq7TwqXvxlROgZYkiZxXgOTtlOLsjO2T1K_q5biXXlxpLhoJTP72Aujx19k37zv02L1C2J2NEm2G-xZpWB996oyq8Z6ohb1A5FqXIylhpo/12d44b492b5e2f796b2f0f2927199dece/c51_lb_112_1080P_t10.m3u8?key=0e97deed846c06c766e704060e5731ef0&dis_t=1672991355&random=1&z=live_alicdn_coc_cn_south2_ct&pv=0.2
 华语院线,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_114_1080P_t10/sRR28icYnsQH1ma0dyyLw62NpZQjl1Tt72rolw2wN_a9_24QybqrMlbIY-9_PNVE69Ne1OhZmjJICxyaB4-mb4axxT7nki4_06HJoUFArdH1iOQi53i_ZKf-dpJ1P0hA/122ed082d89a15d8d84eb5d34b7a7f91b/c51_lb_114_1080P_t10.m3u8?key=0e97deed846c06c76b4a392a081467805&dis_t=1672991396&z=live_baiducdn_ct&pv=0.2
 华语院线,http://175.6.243.41/r/lvbaiducdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_114_1080P_t10/sRR28icYnsQH1ma0dyyLw62NpZQjl1Tt72rolw2wN_a9_24QybqrMlbIY-9_PNVE69Ne1OhZmjJICxyaB4-mb4axxT7nki4_06HJoUFArdH1iOQi53i_ZKf-dpJ1P0hA/122ed082d89a15d8d84eb5d34b7a7f91b/c51_lb_114_1080P_t10.m3u8?key=0e97deed846c06c76b4a392a081467805&dis_t=1672991396&z=live_baiducdn_ct&pv=0.2
