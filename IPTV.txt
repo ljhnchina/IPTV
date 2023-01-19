@@ -1,3 +1,4 @@
+-----央视高清-----
 CCTV1综合,https://live.v1.mk/aishang/cctv1hd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2财经,https://live.v1.mk/aishang/cctv2hd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3综艺,https://live.v1.mk/aishang/cctv3hd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -26,6 +27,7 @@ CCTV风云剧场,http://117.161.133.51/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m
 CCTV风云音乐,http://117.161.133.51/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
 CCTV世界地理,http://117.161.133.51/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
 CCTV央视台球,http://117.161.133.51/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
+-----湖南频道-----
 湖南卫视,http://hms404nc1972679596.live.aikan.miguvideo.com/wh7f454c46tw3668008584_78444105/wd-hunanhd-2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=222.211.205.172&timestamp=20230105140949&ContentId=265667721&timezone=UTC&mtv_session=19904b25c73e67d9cdc18f2180bcffe0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7e6355a2c1c50a4ef95a5810d2dc9629#https://live.v1.mk/aishang/hunwshd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8#http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=OTT1239620230104131655225089&m3u8_level=2
 湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
@@ -35,6 +37,7 @@ CCTV央视台球,http://117.161.133.51/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 金鹰纪实,https://live.v1.mk/aishang/jyjs#http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 金鹰卡通,https://live.v1.mk/aishang/jykt#http://124.232.233.15:6610/000000001001/201600020009/1400.m3u8?m3u8_level=2
+-----卫视高清-----
 浙江卫视,https://live.v1.mk/aishang/zjwshd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 东方卫视,https://live.v1.mk/aishang/dfwshd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 江苏卫视,https://live.v1.mk/aishang/jswshd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
@@ -65,18 +68,13 @@ CCTV央视台球,http://117.161.133.51/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=
 内蒙古卫视,https://live.v1.mk/aishang/nmws
 辽宁卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8#http://117.184.239.60:80/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+-----港澳频道-----
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 有线新闻,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 寰宇新闻,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
-民視,https://4gtvfreemobile-mozai.4gtv.tv/qcHsbLZqZ318xSSlcO1SN-FWZ_nOdqASzz5d0browgw%3d/stream2.m3u8?token=imm0Z4Icpf_5LUF98n9K9g&expires=1674031274&refer=OGNlNmQyYTMtYzdkOC00NzUwLTgyM2YtNzcwNmEyODQ0ZjAw&token1=RMxdXmV048fclWp-h6uY2w&expires1=1674060074&y=0&vt=
-民視第一台,https://4gtvfreemobile-mozai.4gtv.tv/jG5HvoI1L1Tn-p-P9rUB3Yb6pgyyk1OYmRSwYBoNglc%3d/stream2.m3u8?token=-6aw9wqrJc7SdcC_YbvKQQ&expires=1674031352&refer=YmExNDRmMzItMGFlZS00YmM0LWExODItODg2NTZmNjFiODZm&token1=wBlc46Yhwklh1tRpcXG5cQ&expires1=1674060152&y=0&vt=
-民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/7VikSejfcV8TTb3PzcDnvMeqY8KqH2Meg0hYuPgszVg%3d/stream2.m3u8?token=OnDUbWDyD74YvS_h1Az9iw&expires=1674031405&refer=ZjZmMTVhNzYtM2ViMC00MTJmLTliZmYtZDI3NzgyOTIzZDVi&token1=ViZIo_-bUvOcqLDyCDI11w&expires1=1674060205&y=0&vt=
-民視新聞台,https://4gtvfreemobile-mozai.4gtv.tv/iO4IOFtNqddd7_OMs4_D20qU6XeJsF8_G5auJW94IVY%3d/stream2.m3u8?token=LHEBai6fPeOYGEiXqplkxg&expires=1674031465&refer=N2RkOGI2Y2YtNmU3Mi00MzA5LWIyMzMtMTA5ZTc1YzlhMTlh&token1=iHCn5z1bxYfvGcL55Vmydg&expires1=1674060265&y=0&vt=
-民視影劇台,https://4gtvfreemobile-mozai.4gtv.tv/zO30nIVoYKE9GX6Yql85_3yNcHsr9Df-0oIrR4cIrb4%3d/stream2.m3u8?token=x8IeehFNwLXc01jOCr_tYg&expires=1674031510&refer=OTE2MDcwZWYtNDdmOS00ZWNiLWJmZmUtOTViNTk3NmM5N2I1&token1=gaS2P6PqdEga3mfNWbkJOA&expires1=1674060310&y=0&vt=
-民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/2MrO3Jo1BrPYFyvWjUroAQ-p_We2xM0T7H714isDzdg%3d/stream2.m3u8?token=2ErYV6AizzuwKMrJpibuzA&expires=1674031557&refer=YzU2NjNmMWItNGQzMi00NjMwLThkYTEtMDM5ZTMzMzIyYjUw&token1=8tsgTSVich2Czu_WNV_nmA&expires1=1674060357&y=0&vt=
-民視旅遊台,https://4gtvfreemobile-mozai.4gtv.tv/cCU23GpBlTZijnVPsVsurwjQFn5HIFzZWTbWDsxnYic%3d/stream2.m3u8?token=_xXIixls-oHvBgqMjY80CA&expires=1674031606&refer=ZjZmODRiMjItYTU0NS00NDc3LWE5OGMtYjZjYTUwYTkzYjdj&token1=iRERrFxlqA33aHgC0Fn2WA&expires1=1674060406&y=0&vt=
+-----网络电视-----
 CHC动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#http://live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://113.62.253.9/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
@@ -110,6 +108,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 国产影片,http://epg.112114.xyz/douyu/5423
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 译制影片,http://epg.112114.xyz/douyu/2436390
+-----明星合集-----
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs#http://zzy789.xyz/douyu1.php?id=218859
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
@@ -121,10 +120,12 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
 黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
 刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+-----港台测试-----
 凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 澳门莲花,http://epg.112114.xyz/lotus
+-----轮播频道-----
 咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
 黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
 古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
@@ -136,6 +137,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+-----虎牙-----
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
@@ -180,6 +182,7 @@ DD-解说 新七龙珠动画武林大会,http://txtest-xp2p.p2p.huya.com/src/119
 良少聊漫威 《蜘蛛侠英雄远征》神秘客的阴险狡诈让蜘,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
 Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
 树袋熊小九九 【五福星】每天都要快乐哦,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+-----NewTV-----
 黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109022617018635&channel-id=ystenlive&Contentid=1000000004000019624
 超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3#http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2551020230109022704020265&channel-id=ystenlive&Contentid=1000000004000024993
 超级电影,http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3#http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2549620230109022740018032&channel-id=ystenlive&Contentid=1000000004000002120
@@ -195,6 +198,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://txtest-
 魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3#http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2547920230109023316016661&channel-id=ystenlive&Contentid=1000000001000006197
 明星大片,http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3#http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109023339018651&channel-id=ystenlive&Contentid=1000000004000019008
 炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3#http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109023401018657&channel-id=ystenlive&Contentid=1000000001000000515
+-----斗鱼电影-----
 斗鱼电影01,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=1ea1a300d226ec1067c82df37a1e6ef5&token=cpn-androidmpro-0-3637778-8c089871434b93445163ba4dfd3714568979c1778d2e14df&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影02,http://epg.112114.xyz/douyu/6566671
 斗鱼电影03,http://diyp.112114.xyz/douyu/2793084
@@ -212,6 +216,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://txtest-
 斗鱼电影15,http://epg.112114.xyz/douyu/4246519
 斗鱼电影16,http://epg.112114.xyz/douyu/4549169
 斗鱼电影17,http://epg.112114.xyz/douyu/508118
+-----BesTV-----
 全球大片,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
