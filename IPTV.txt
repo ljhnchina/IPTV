@@ -1,3 +1,4 @@
+央视高清
 CCTV1综合,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2财经,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3综艺,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -19,6 +20,7 @@ CCTV17农业农村,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/liv
 CHC动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240330_1
 CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
+湖南频道
 湖南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 湖南都市,http://124.232.233.17:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
@@ -42,6 +44,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 金鹰卡通,https://live.v1.mk/aishang/jykt
 芒果乐搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?m3u8_level=2
 芒果乐搜,http://124.232.233.15:6610/000000001001/201600020010/1400.m3u8?m3u8_level=2
+卫视高清
 江苏卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 广西卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 四川卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
@@ -67,6 +70,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 云南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 贵州卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+港澳频道
 翡翠台,https://epg.pw/stream/2a3df69d0d9a7c08c39995d56d890272e4ba16e740746eaa62186711a246bbcb.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -89,6 +93,7 @@ HBO原創巨獻,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed38
 HBO,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO家庭,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
 HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+明星合集
 吴京,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw660122596_945215364/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=19115966146&amp;Channel_ID=0119_04102000-99000_400300000040002&amp;client_ip=222.211.205.172×tamp=20230106060151&amp;ContentId=265219090&amp;timezone=UTC&amp;mtv_session=ba152bfb2eda25905ba6cc926a1f28b6&amp;HlsSubType=1&amp;HlsProfileId=1&amp;nphaid=0&amp;encrypt=f4c4207c6c56e4c12ffde80ed7687340
 金庸,http://hms4nc1972679557.live.aikan.miguvideo.com/wh7f454c46tw691000180_1300523434/wd_r2/virtuallive/5100181876/150/01.m3u8?msisdn=19115966146&amp;Channel_ID=0119_04102000-99000_400300000040002&amp;client_ip=222.211.205.172×tamp=20230106060222&amp;ContentId=265218834&amp;timezone=UTC&amp;mtv_session=37c9ac581303d512cfb05ec2fa01637d&amp;HlsSubType=1&amp;HlsProfileId=1&amp;nphaid=0&amp;encrypt=57057ac12f7e89b7fd0ff0945a31cfc8
 周星驰,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw756691430_-1872301528/wd_r3/virtuallive/5100144102/150/01.m3u8?msisdn=19115966146&amp;Channel_ID=0119_04102000-99000_400300000040002&amp;client_ip=222.211.205.172×tamp=20230106060327&amp;ContentId=265218902&amp;timezone=UTC&amp;mtv_session=2b5facd4212b326881b5cf77e98d27f7&amp;HlsSubType=1&amp;HlsProfileId=1&amp;nphaid=0&amp;encrypt=dc770b0f4ac3b28ad19928e9980d5258
@@ -110,6 +115,7 @@ HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640
 洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
 黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
 刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+轮播频道
 咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
 黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
 古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
@@ -121,6 +127,7 @@ HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640
 古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+NewTV
 黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109022617018635&amp;channel-id=ystenlive&amp;Contentid=1000000004000019624
 超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000024993&amp;livemode=1&amp;stbId=3
 超级电影,http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000002120&amp;livemode=1&amp;stbId=3
@@ -136,6 +143,7 @@ HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640
 魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000001000006197&amp;livemode=1&amp;stbId=3
 明星大片,http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000019008&amp;livemode=1&amp;stbId=3
 炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000001000000515&amp;livemode=1&amp;stbId=3
+斗鱼电影
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -167,6 +175,7 @@ HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640
 国产影片,http://epg.112114.xyz/douyu/5423
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 译制影片,http://epg.112114.xyz/douyu/2436390
+BesTV
 全球大片,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
