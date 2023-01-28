@@ -181,6 +181,36 @@ http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m
 http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO強檔
 http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港台测试",民視新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=1
+#EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="港台测试",台視新聞台
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=2
+#EXTINF:-1,tvg-id="三立 iNEWS 新聞" tvg-name="三立 iNEWS 新聞" tvg-logo="https://epg.112114.xyz/logo/三立INEWS新聞.png" group-title="港台测试",三立 iNEWS 新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=4
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港台测试",中天新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=5
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港台测试",TVBS 56頻道
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=6
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港台测试",鏡新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=7
+#EXTINF:-1,tvg-id="中天新聞2" tvg-name="中天新聞2" tvg-logo="https://epg.112114.xyz/logo/中天新聞2.png" group-title="港台测试",中天新聞2
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港台测试",华视新闻
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=9
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港台测试",寰宇新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=10
+#EXTINF:-1,tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視.png" group-title="港台测试",鳳凰衛視
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=11
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港台测试",中視新聞
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=12
+#EXTINF:-1,tvg-id="新唐人LIVE" tvg-name="新唐人LIVE" tvg-logo="https://epg.112114.xyz/logo/新唐人LIVE.png" group-title="港台测试",新唐人LIVE
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=13
+#EXTINF:-1,tvg-id="LIVE 三立+" tvg-name="LIVE 三立+" tvg-logo="https://epg.112114.xyz/logo/LIVE三立+.png" group-title="港台测试",LIVE 三立+
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=15
+#EXTINF:-1,tvg-id="大愛一臺" tvg-name="大愛一臺" tvg-logo="https://epg.112114.xyz/logo/大愛一臺.png" group-title="港台测试",大愛一臺
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=17
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港台测试",TVBS國際
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=18
 #EXTINF:-1,tvg-id="吴京作品 集" tvg-name="吴京作品 集" tvg-logo="https://epg.112114.xyz/logo/吴京作品 集.png" group-title="明星合集",吴京
 http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw660122596_945215364/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=19115966146&amp;Channel_ID=0119_04102000-99000_400300000040002&amp;client_ip=222.211.205.172×tamp=20230106060151&amp;ContentId=265219090&amp;timezone=UTC&amp;mtv_session=ba152bfb2eda25905ba6cc926a1f28b6&amp;HlsSubType=1&amp;HlsProfileId=1&amp;nphaid=0&amp;encrypt=f4c4207c6c56e4c12ffde80ed7687340
 #EXTINF:-1,tvg-id="金庸频道" tvg-name="金庸频道" tvg-logo="https://epg.112114.xyz/logo/金庸频道.png" group-title="明星合集",金庸
