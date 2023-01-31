@@ -197,7 +197,7 @@ http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ys
 http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000007755&amp;livemode=1&amp;stbId=3
 #EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV",超级综艺
 http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000023658&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="NewTV",动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV",动作电影
 http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000018653&amp;livemode=1&amp;stbId=3
 #EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000008284&amp;livemode=1&amp;stbId=3
@@ -279,7 +279,7 @@ http://epg.112114.xyz/douyu/5423
 http://epg.112114.xyz/douyu/4505431
 #EXTINF:-1,tvg-id="译制影片" tvg-name="译制影片" tvg-logo="https://epg.112114.xyz/logo/译制影片.png" group-title="斗鱼电影",译制影片
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="BesTV",全球大片
+#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/BesTV全球大片.png" group-title="BesTV",全球大片
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
@@ -293,7 +293,7 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mn
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="BesTV",戏曲精选
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="BesTV",超级体育
+#EXTINF:-1,tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.112114.xyz/logo/超级体育.png" group-title="BesTV",超级体育
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="BesTV",健康养生
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
