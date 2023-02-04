@@ -141,7 +141,7 @@ http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?stbId=3&amp;l
 http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2546620230109022756018322&amp;channel-id=ystenlive&amp;Contentid=1000000004000007755
 #EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV",超级综艺
 http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022815020269&amp;channel-id=ystenlive&amp;Contentid=1000000004000023658
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="NewTV",动作电影
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV",动作电影
 http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545820230109022837018680&amp;channel-id=ystenlive&amp;Contentid=1000000004000018653
 #EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545820230109022855018685&amp;channel-id=ystenlive&amp;Contentid=1000000004000008284
@@ -151,7 +151,7 @@ http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?stbId=3&amp;l
 http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022935020274&amp;channel-id=ystenlive&amp;Contentid=1000000004000024282
 #EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV",精品大剧
 http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109023003018636&amp;channel-id=ystenlive&amp;Contentid=1000000004000013968
-#EXTINF:-1,tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.112114.xyz/logo/精品记录.png" group-title="NewTV",精品记录
+#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV",精品记录
 http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2592820230109023034018203&amp;channel-id=ystenlive&amp;Contentid=1000000004000013730
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV",精品体育
 http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2547820230109023300018966&amp;channel-id=ystenlive&amp;Contentid=1000000004000014634
