@@ -108,7 +108,7 @@ http://nas.jdshipin.com:8801/gdmz.php
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="港澳台",东森新闻
 http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=69
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",三立新闻
-http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=70
+http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=86
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
 http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=71
 #EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
