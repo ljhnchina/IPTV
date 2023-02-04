@@ -56,7 +56,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/enco
 翡翠台,http://nas.jdshipin.com:8801/gdfc.php
 明珠台,http://nas.jdshipin.com:8801/gdmz.php
 东森新聞,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=69
-三立新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=70
+三立新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=86
 TVBS新聞,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=71
 民視新聞,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=72
 华视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=73
