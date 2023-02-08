@@ -131,33 +131,33 @@ http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=23
 http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=24
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="NewTV",黑莓电影
 http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109022617018635&amp;channel-id=ystenlive&amp;Contentid=1000000004000019624
-#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://upload.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
 http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022704020265&amp;channel-id=ystenlive&amp;Contentid=1000000004000024993
-#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电影.png" group-title="NewTV",超级电影
+#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://upload.112114.xyz/logo/NEWTV超级电影.png" group-title="NewTV",超级电影
 http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2549620230109022740018032&amp;channel-id=ystenlive&amp;Contentid=1000000004000002120
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="NewTV",超级体育
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://upload.112114.xyz/logo/NEWTV超级体育.png" group-title="NewTV",超级体育
 http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2546620230109022756018322&amp;channel-id=ystenlive&amp;Contentid=1000000004000007755
-#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV",超级综艺
+#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://upload.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV",超级综艺
 http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022815020269&amp;channel-id=ystenlive&amp;Contentid=1000000004000023658
-#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV",动作电影
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://upload.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV",动作电影
 http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545820230109022837018680&amp;channel-id=ystenlive&amp;Contentid=1000000004000018653
-#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545820230109022855018685&amp;channel-id=ystenlive&amp;Contentid=1000000004000008284
-#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://upload.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
 http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2547720230109022917018918&amp;channel-id=ystenlive&amp;Contentid=1000000004000026167
-#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://upload.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022935020274&amp;channel-id=ystenlive&amp;Contentid=1000000004000024282
-#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV",精品大剧
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV",精品大剧
 http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109023003018636&amp;channel-id=ystenlive&amp;Contentid=1000000004000013968
-#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV",精品记录
+#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV",精品记录
 http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2592820230109023034018203&amp;channel-id=ystenlive&amp;Contentid=1000000004000013730
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV",精品体育
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV",精品体育
 http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2547820230109023300018966&amp;channel-id=ystenlive&amp;Contentid=1000000004000014634
 #EXTINF:-1,tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://epg.112114.xyz/logo/魅力潇湘.png" group-title="NewTV",魅力潇湘
 http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2547920230109023316016661&amp;channel-id=ystenlive&amp;Contentid=1000000001000006197
 #EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.112114.xyz/logo/明星大片.png" group-title="NewTV",明星大片
 http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109023339018651&amp;channel-id=ystenlive&amp;Contentid=1000000004000019008
-#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NewTV",炫舞未来
+#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://upload.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NewTV",炫舞未来
 http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109023401018657&amp;channel-id=ystenlive&amp;Contentid=1000000001000000515
 #EXTINF:-1,tvg-id="华语经典" tvg-name="华语经典" tvg-logo="https://epg.112114.xyz/logo/华语经典.png" group-title="斗鱼电影",华语经典
 http://epg.112114.xyz/douyu/434971
@@ -219,7 +219,7 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mn
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="BesTV",星光影院
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="BesTV",谍战剧场
+#EXTINF:-1,tvg-id="红色谍战" tvg-name="红色谍战" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="BesTV",谍战剧场
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="BesTV",热门剧场
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
