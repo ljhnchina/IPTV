@@ -149,7 +149,7 @@ http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?stbId=3&amp;l
 http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2551020230109022935020274&amp;channel-id=ystenlive&amp;Contentid=1000000004000024282
 #EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV",精品大剧
 http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2545620230109023003018636&amp;channel-id=ystenlive&amp;Contentid=1000000004000013968
-#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV",精品记录
+#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品纪录.png" group-title="NewTV",精品记录
 http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2592820230109023034018203&amp;channel-id=ystenlive&amp;Contentid=1000000004000013730
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://upload.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV",精品体育
 http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?stbId=3&amp;livemode=1&amp;IASHttpSessionId=OTT2547820230109023300018966&amp;channel-id=ystenlive&amp;Contentid=1000000004000014634
