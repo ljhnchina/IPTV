@@ -99,95 +99,139 @@ http://jiandjh.51vip.biz:5678/sxg.php?id=jlwsH265_4000
 http://jiandjh.51vip.biz:5678/sxg.php?id=hljwsH265_4000
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视高清",四川卫视
 http://jiandjh.51vip.biz:5678/sxg.php?id=scwsH265_40001
-#EXTINF:-1,tvg-id="斗鱼-特辑电影" tvg-name="斗鱼-特辑电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼特辑电影.png" group-title="平台电影",斗鱼-特辑电影
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://nas.jdshipin.com:8801/gdfc.php
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://nas.jdshipin.com:8801/gdmz.php
+#EXTINF:-1,tvg-id="私人影院" tvg-name="私人影院" tvg-logo="https://epg.112114.xyz/logo/私人影院.png" group-title="港澳台",私人影院
+http://120.84.96.108:808/hls/24/index.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
+http://120.84.96.108:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
+http://120.84.96.108:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="龙翔电影" tvg-name="龙翔电影" tvg-logo="https://epg.112114.xyz/logo/龙翔电影.png" group-title="港澳台",龙翔电影
+http://120.84.96.108:808/hls/35/index.m3u8
+#EXTINF:-1,tvg-id="东森新聞" tvg-name="东森新聞" tvg-logo="https://epg.112114.xyz/logo/东森新聞.png" group-title="港澳台",东森新聞
+http://jiandjh.51vip.biz:35455/youtube/R2iMq5LKXco?quality=1080
+#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
+http://jiandjh.51vip.biz:35455/youtube/WHEPzbFA3hw?quality=1080
+#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="港澳台",三立新聞
+http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
+#EXTINF:-1,tvg-id="三立新聞+" tvg-name="三立新聞+" tvg-logo="https://epg.112114.xyz/logo/三立新聞+.png" group-title="港澳台",三立新聞+
+http://jiandjh.51vip.biz:35455/youtube/jlldIiGA5bU?quality=1080
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
+http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
+http://jiandjh.51vip.biz:35455/youtube/ylYJSBUgaMA?quality=1080
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
+http://jiandjh.51vip.biz:35455/youtube/B7Zp3d6xXWw?quality=1080
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
+http://jiandjh.51vip.biz:35455/youtube/TCnaIE_SAtM?quality=1080
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
+http://jiandjh.51vip.biz:35455/youtube/xL0ch83RAK8?quality=1080
+#EXTINF:-1,tvg-id="東森綜合" tvg-name="東森綜合" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="港澳台",東森綜合
+http://jiandjh.51vip.biz:35455/youtube/IS_FGyQY2tM?quality=1080
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+http://jiandjh.51vip.biz:35455/youtube/dmDg7NfUoSw?quality=1080
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
+http://jiandjh.51vip.biz:35455/youtube/_QbRXRnHMVY?quality=1080
+#EXTINF:-1,tvg-id="中天新聞2" tvg-name="中天新聞2" tvg-logo="https://epg.112114.xyz/logo/中天新聞2.png" group-title="港澳台",中天新聞2
+http://jiandjh.51vip.biz:35455/youtube/WPfPjbOLNfE?quality=1080
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新聞
+http://jiandjh.51vip.biz:35455/youtube/wM0g8EoUZ_E?quality=1080
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
+http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
+#EXTINF:-1,tvg-id="新唐人" tvg-name="新唐人" tvg-logo="https://epg.112114.xyz/logo/新唐人.png" group-title="港澳台",新唐人
+http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
+#EXTINF:-1,tvg-id="斗鱼-特辑电影" tvg-name="斗鱼-特辑电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼特辑电影.png" group-title="斗鱼电影",斗鱼-特辑电影
 http://jiandjh.51vip.biz:35455/douyu/3637778
-#EXTINF:-1,tvg-id="斗鱼-周末电影" tvg-name="斗鱼-周末电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼周末电影.png" group-title="平台电影",斗鱼-周末电影
+#EXTINF:-1,tvg-id="斗鱼-周末电影" tvg-name="斗鱼-周末电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼周末电影.png" group-title="斗鱼电影",斗鱼-周末电影
 http://jiandjh.51vip.biz:35455/douyu/3637726
-#EXTINF:-1,tvg-id="斗鱼-华语经典" tvg-name="斗鱼-华语经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语经典.png" group-title="平台电影",斗鱼-华语经典
+#EXTINF:-1,tvg-id="斗鱼-华语经典" tvg-name="斗鱼-华语经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语经典.png" group-title="斗鱼电影",斗鱼-华语经典
 http://jiandjh.51vip.biz:35455/douyu/434971
-#EXTINF:-1,tvg-id="斗鱼-吃米滴虫" tvg-name="斗鱼-吃米滴虫" tvg-logo="https://epg.112114.xyz/logo/斗鱼吃米滴虫.png" group-title="平台电影",斗鱼-吃米滴虫
+#EXTINF:-1,tvg-id="斗鱼-吃米滴虫" tvg-name="斗鱼-吃米滴虫" tvg-logo="https://epg.112114.xyz/logo/斗鱼吃米滴虫.png" group-title="斗鱼电影",斗鱼-吃米滴虫
 http://jiandjh.51vip.biz:35455/douyu/315457
-#EXTINF:-1,tvg-id="斗鱼-神乐影片1" tvg-name="斗鱼-神乐影片1" tvg-logo="https://epg.112114.xyz/logo/斗鱼神乐影片1.png" group-title="平台电影",斗鱼-神乐影片1
+#EXTINF:-1,tvg-id="斗鱼-神乐影片1" tvg-name="斗鱼-神乐影片1" tvg-logo="https://epg.112114.xyz/logo/斗鱼神乐影片1.png" group-title="斗鱼电影",斗鱼-神乐影片1
 http://jiandjh.51vip.biz:35455/douyu/122402
-#EXTINF:-1,tvg-id="斗鱼-神乐影片2" tvg-name="斗鱼-神乐影片2" tvg-logo="https://epg.112114.xyz/logo/斗鱼神乐影片2.png" group-title="平台电影",斗鱼-神乐影片2
+#EXTINF:-1,tvg-id="斗鱼-神乐影片2" tvg-name="斗鱼-神乐影片2" tvg-logo="https://epg.112114.xyz/logo/斗鱼神乐影片2.png" group-title="斗鱼电影",斗鱼-神乐影片2
 http://jiandjh.51vip.biz:35455/douyu/85894
-#EXTINF:-1,tvg-id="斗鱼-贝爷MAX厅" tvg-name="斗鱼-贝爷MAX厅" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷MAX厅.png" group-title="平台电影",斗鱼-贝爷MAX厅
+#EXTINF:-1,tvg-id="斗鱼-贝爷MAX厅" tvg-name="斗鱼-贝爷MAX厅" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷MAX厅.png" group-title="斗鱼电影",斗鱼-贝爷MAX厅
 http://jiandjh.51vip.biz:35455/douyu/4332
-#EXTINF:-1,tvg-id="斗鱼-漫威影片" tvg-name="斗鱼-漫威影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼漫威影片.png" group-title="平台电影",斗鱼-漫威影片
+#EXTINF:-1,tvg-id="斗鱼-漫威影片" tvg-name="斗鱼-漫威影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼漫威影片.png" group-title="斗鱼电影",斗鱼-漫威影片
 http://jiandjh.51vip.biz:35455/douyu/6140589
-#EXTINF:-1,tvg-id="斗鱼-刘德华电影" tvg-name="斗鱼-刘德华电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼刘德华电影.png" group-title="平台电影",斗鱼-刘德华电影
+#EXTINF:-1,tvg-id="斗鱼-刘德华电影" tvg-name="斗鱼-刘德华电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼刘德华电影.png" group-title="斗鱼电影",斗鱼-刘德华电影
 http://jiandjh.51vip.biz:35455/douyu/2516864
-#EXTINF:-1,tvg-id="斗鱼-喜剧经典" tvg-name="斗鱼-喜剧经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼喜剧经典.png" group-title="平台电影",斗鱼-喜剧经典
+#EXTINF:-1,tvg-id="斗鱼-喜剧经典" tvg-name="斗鱼-喜剧经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼喜剧经典.png" group-title="斗鱼电影",斗鱼-喜剧经典
 http://jiandjh.51vip.biz:35455/douyu/9650887
-#EXTINF:-1,tvg-id="斗鱼-豆瓣高分" tvg-name="斗鱼-豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/斗鱼豆瓣高分.png" group-title="平台电影",斗鱼-豆瓣高分
+#EXTINF:-1,tvg-id="斗鱼-豆瓣高分" tvg-name="斗鱼-豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/斗鱼豆瓣高分.png" group-title="斗鱼电影",斗鱼-豆瓣高分
 http://jiandjh.51vip.biz:35455/douyu/8770422
-#EXTINF:-1,tvg-id="斗鱼-宇哥电影" tvg-name="斗鱼-宇哥电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼宇哥电影.png" group-title="平台电影",斗鱼-宇哥电影
+#EXTINF:-1,tvg-id="斗鱼-宇哥电影" tvg-name="斗鱼-宇哥电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼宇哥电影.png" group-title="斗鱼电影",斗鱼-宇哥电影
 http://jiandjh.51vip.biz:35455/douyu/413573
-#EXTINF:-1,tvg-id="斗鱼-女神金电影" tvg-name="斗鱼-女神金电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼女神金电影.png" group-title="平台电影",斗鱼-女神金电影
+#EXTINF:-1,tvg-id="斗鱼-女神金电影" tvg-name="斗鱼-女神金电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼女神金电影.png" group-title="斗鱼电影",斗鱼-女神金电影
 http://jiandjh.51vip.biz:35455/douyu/747764
-#EXTINF:-1,tvg-id="斗鱼-贝爷影厅1" tvg-name="斗鱼-贝爷影厅1" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷影厅1.png" group-title="平台电影",斗鱼-贝爷影厅1
+#EXTINF:-1,tvg-id="斗鱼-贝爷影厅1" tvg-name="斗鱼-贝爷影厅1" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷影厅1.png" group-title="斗鱼电影",斗鱼-贝爷影厅1
 http://jiandjh.51vip.biz:35455/douyu/252802
-#EXTINF:-1,tvg-id="斗鱼-贝爷影厅2" tvg-name="斗鱼-贝爷影厅2" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷影厅2.png" group-title="平台电影",斗鱼-贝爷影厅2
+#EXTINF:-1,tvg-id="斗鱼-贝爷影厅2" tvg-name="斗鱼-贝爷影厅2" tvg-logo="https://epg.112114.xyz/logo/斗鱼贝爷影厅2.png" group-title="斗鱼电影",斗鱼-贝爷影厅2
 http://jiandjh.51vip.biz:35455/douyu/36337
-#EXTINF:-1,tvg-id="斗鱼-霍格影片" tvg-name="斗鱼-霍格影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼霍格影片.png" group-title="平台电影",斗鱼-霍格影片
+#EXTINF:-1,tvg-id="斗鱼-霍格影片" tvg-name="斗鱼-霍格影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼霍格影片.png" group-title="斗鱼电影",斗鱼-霍格影片
 http://jiandjh.51vip.biz:35455/douyu/8814650
-#EXTINF:-1,tvg-id="斗鱼-冰冰经典电影" tvg-name="斗鱼-冰冰经典电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼冰冰经典电影.png" group-title="平台电影",斗鱼-冰冰经典电影
+#EXTINF:-1,tvg-id="斗鱼-冰冰经典电影" tvg-name="斗鱼-冰冰经典电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼冰冰经典电影.png" group-title="斗鱼电影",斗鱼-冰冰经典电影
 http://jiandjh.51vip.biz:35455/douyu/74374
-#EXTINF:-1,tvg-id="斗鱼-奶虫恐怖电影" tvg-name="斗鱼-奶虫恐怖电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼奶虫恐怖电影.png" group-title="平台电影",斗鱼-奶虫恐怖电影
+#EXTINF:-1,tvg-id="斗鱼-奶虫恐怖电影" tvg-name="斗鱼-奶虫恐怖电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼奶虫恐怖电影.png" group-title="斗鱼电影",斗鱼-奶虫恐怖电影
 http://jiandjh.51vip.biz:35455/douyu/263824
-#EXTINF:-1,tvg-id="斗鱼-避风港影院" tvg-name="斗鱼-避风港影院" tvg-logo="https://epg.112114.xyz/logo/斗鱼避风港影院.png" group-title="平台电影",斗鱼-避风港影院
+#EXTINF:-1,tvg-id="斗鱼-避风港影院" tvg-name="斗鱼-避风港影院" tvg-logo="https://epg.112114.xyz/logo/斗鱼避风港影院.png" group-title="斗鱼电影",斗鱼-避风港影院
 http://jiandjh.51vip.biz:35455/douyu/9826611
-#EXTINF:-1,tvg-id="斗鱼-恐怖经典" tvg-name="斗鱼-恐怖经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼恐怖经典.png" group-title="平台电影",斗鱼-恐怖经典
+#EXTINF:-1,tvg-id="斗鱼-恐怖经典" tvg-name="斗鱼-恐怖经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼恐怖经典.png" group-title="斗鱼电影",斗鱼-恐怖经典
 http://jiandjh.51vip.biz:35455/douyu/1165374
-#EXTINF:-1,tvg-id="斗鱼-变种人电影" tvg-name="斗鱼-变种人电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼变种人电影.png" group-title="平台电影",斗鱼-变种人电影
+#EXTINF:-1,tvg-id="斗鱼-变种人电影" tvg-name="斗鱼-变种人电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼变种人电影.png" group-title="斗鱼电影",斗鱼-变种人电影
 http://jiandjh.51vip.biz:35455/douyu/9651304
-#EXTINF:-1,tvg-id="斗鱼-小U电影" tvg-name="斗鱼-小U电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼小U电影.png" group-title="平台电影",斗鱼-小U电影
+#EXTINF:-1,tvg-id="斗鱼-小U电影" tvg-name="斗鱼-小U电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼小U电影.png" group-title="斗鱼电影",斗鱼-小U电影
 http://jiandjh.51vip.biz:35455/douyu/96577
-#EXTINF:-1,tvg-id="斗鱼-小宇60帧" tvg-name="斗鱼-小宇60帧" tvg-logo="https://epg.112114.xyz/logo/斗鱼小宇60帧.png" group-title="平台电影",斗鱼-小宇60帧
+#EXTINF:-1,tvg-id="斗鱼-小宇60帧" tvg-name="斗鱼-小宇60帧" tvg-logo="https://epg.112114.xyz/logo/斗鱼小宇60帧.png" group-title="斗鱼电影",斗鱼-小宇60帧
 http://jiandjh.51vip.biz:35455/douyu/323876
-#EXTINF:-1,tvg-id="斗鱼-华语电影" tvg-name="斗鱼-华语电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语电影.png" group-title="平台电影",斗鱼-华语电影
+#EXTINF:-1,tvg-id="斗鱼-华语电影" tvg-name="斗鱼-华语电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语电影.png" group-title="斗鱼电影",斗鱼-华语电影
 http://jiandjh.51vip.biz:35455/douyu/3928
-#EXTINF:-1,tvg-id="斗鱼-喜剧电影" tvg-name="斗鱼-喜剧电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼喜剧电影.png" group-title="平台电影",斗鱼-喜剧电影
+#EXTINF:-1,tvg-id="斗鱼-喜剧电影" tvg-name="斗鱼-喜剧电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼喜剧电影.png" group-title="斗鱼电影",斗鱼-喜剧电影
 http://jiandjh.51vip.biz:35455/douyu/9292492
-#EXTINF:-1,tvg-id="斗鱼-欧美大片" tvg-name="斗鱼-欧美大片" tvg-logo="https://epg.112114.xyz/logo/斗鱼欧美大片.png" group-title="平台电影",斗鱼-欧美大片
+#EXTINF:-1,tvg-id="斗鱼-欧美大片" tvg-name="斗鱼-欧美大片" tvg-logo="https://epg.112114.xyz/logo/斗鱼欧美大片.png" group-title="斗鱼电影",斗鱼-欧美大片
 http://jiandjh.51vip.biz:35455/douyu/2793084
-#EXTINF:-1,tvg-id="斗鱼-国产影片" tvg-name="斗鱼-国产影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼国产影片.png" group-title="平台电影",斗鱼-国产影片
+#EXTINF:-1,tvg-id="斗鱼-国产影片" tvg-name="斗鱼-国产影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼国产影片.png" group-title="斗鱼电影",斗鱼-国产影片
 http://jiandjh.51vip.biz:35455/douyu/5423
-#EXTINF:-1,tvg-id="斗鱼-译制影片" tvg-name="斗鱼-译制影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼译制影片.png" group-title="平台电影",斗鱼-译制影片
+#EXTINF:-1,tvg-id="斗鱼-译制影片" tvg-name="斗鱼-译制影片" tvg-logo="https://epg.112114.xyz/logo/斗鱼译制影片.png" group-title="斗鱼电影",斗鱼-译制影片
 http://jiandjh.51vip.biz:35455/douyu/2436390
-#EXTINF:-1,tvg-id="虎牙-周星星" tvg-name="虎牙-周星星" tvg-logo="https://epg.112114.xyz/logo/虎牙周星星.png" group-title="平台电影",虎牙-周星星
+#EXTINF:-1,tvg-id="虎牙-周星星" tvg-name="虎牙-周星星" tvg-logo="https://epg.112114.xyz/logo/虎牙周星星.png" group-title="虎牙电影",虎牙-周星星
 http://jiandjh.51vip.biz:35455/huya/11342412
-#EXTINF:-1,tvg-id="虎牙-林正英" tvg-name="虎牙-林正英" tvg-logo="https://epg.112114.xyz/logo/虎牙林正英.png" group-title="平台电影",虎牙-林正英
+#EXTINF:-1,tvg-id="虎牙-林正英" tvg-name="虎牙-林正英" tvg-logo="https://epg.112114.xyz/logo/虎牙林正英.png" group-title="虎牙电影",虎牙-林正英
 http://jiandjh.51vip.biz:35455/huya/11342421
-#EXTINF:-1,tvg-id="虎牙-沈腾" tvg-name="虎牙-沈腾" tvg-logo="https://epg.112114.xyz/logo/虎牙沈腾.png" group-title="平台电影",虎牙-沈腾
+#EXTINF:-1,tvg-id="虎牙-沈腾" tvg-name="虎牙-沈腾" tvg-logo="https://epg.112114.xyz/logo/虎牙沈腾.png" group-title="虎牙电影",虎牙-沈腾
 http://jiandjh.51vip.biz:35455/huya/11601968
-#EXTINF:-1,tvg-id="虎牙-古装武侠" tvg-name="虎牙-古装武侠" tvg-logo="https://epg.112114.xyz/logo/虎牙古装武侠.png" group-title="平台电影",虎牙-古装武侠
+#EXTINF:-1,tvg-id="虎牙-古装武侠" tvg-name="虎牙-古装武侠" tvg-logo="https://epg.112114.xyz/logo/虎牙古装武侠.png" group-title="虎牙电影",虎牙-古装武侠
 http://jiandjh.51vip.biz:35455/huya/25098954
-#EXTINF:-1,tvg-id="虎牙-经典动作" tvg-name="虎牙-经典动作" tvg-logo="https://epg.112114.xyz/logo/虎牙经典动作.png" group-title="平台电影",虎牙-经典动作
+#EXTINF:-1,tvg-id="虎牙-经典动作" tvg-name="虎牙-经典动作" tvg-logo="https://epg.112114.xyz/logo/虎牙经典动作.png" group-title="虎牙电影",虎牙-经典动作
 http://jiandjh.51vip.biz:35455/huya/26182091
-#EXTINF:-1,tvg-id="虎牙-猫和老鼠" tvg-name="虎牙-猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/虎牙猫和老鼠.png" group-title="平台电影",虎牙-猫和老鼠
+#EXTINF:-1,tvg-id="虎牙-猫和老鼠" tvg-name="虎牙-猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/虎牙猫和老鼠.png" group-title="虎牙电影",虎牙-猫和老鼠
 http://jiandjh.51vip.biz:35455/huya/11352879
-#EXTINF:-1,tvg-id="虎牙-成龙" tvg-name="虎牙-成龙" tvg-logo="https://epg.112114.xyz/logo/虎牙成龙.png" group-title="平台电影",虎牙-成龙
+#EXTINF:-1,tvg-id="虎牙-成龙" tvg-name="虎牙-成龙" tvg-logo="https://epg.112114.xyz/logo/虎牙成龙.png" group-title="虎牙电影",虎牙-成龙
 http://jiandjh.51vip.biz:35455/huya/11342386
-#EXTINF:-1,tvg-id="虎牙-李连杰" tvg-name="虎牙-李连杰" tvg-logo="https://epg.112114.xyz/logo/虎牙李连杰.png" group-title="平台电影",虎牙-李连杰
+#EXTINF:-1,tvg-id="虎牙-李连杰" tvg-name="虎牙-李连杰" tvg-logo="https://epg.112114.xyz/logo/虎牙李连杰.png" group-title="虎牙电影",虎牙-李连杰
 http://jiandjh.51vip.biz:35455/huya/11342390
-#EXTINF:-1,tvg-id="虎牙-刘德华" tvg-name="虎牙-刘德华" tvg-logo="https://epg.112114.xyz/logo/虎牙刘德华.png" group-title="平台电影",虎牙-刘德华
+#EXTINF:-1,tvg-id="虎牙-刘德华" tvg-name="虎牙-刘德华" tvg-logo="https://epg.112114.xyz/logo/虎牙刘德华.png" group-title="虎牙电影",虎牙-刘德华
 http://jiandjh.51vip.biz:35455/huya/11342424
-#EXTINF:-1,tvg-id="虎牙-王晶" tvg-name="虎牙-王晶" tvg-logo="https://epg.112114.xyz/logo/虎牙王晶.png" group-title="平台电影",虎牙-王晶
+#EXTINF:-1,tvg-id="虎牙-王晶" tvg-name="虎牙-王晶" tvg-logo="https://epg.112114.xyz/logo/虎牙王晶.png" group-title="虎牙电影",虎牙-王晶
 http://jiandjh.51vip.biz:35455/huya/11602058
-#EXTINF:-1,tvg-id="虎牙-中华小当家" tvg-name="虎牙-中华小当家" tvg-logo="https://epg.112114.xyz/logo/虎牙中华小当家.png" group-title="平台电影",虎牙-中华小当家
+#EXTINF:-1,tvg-id="虎牙-中华小当家" tvg-name="虎牙-中华小当家" tvg-logo="https://epg.112114.xyz/logo/虎牙中华小当家.png" group-title="虎牙电影",虎牙-中华小当家
 http://jiandjh.51vip.biz:35455/huya/11342413
-#EXTINF:-1,tvg-id="虎牙-杰森·斯坦森" tvg-name="虎牙-杰森·斯坦森" tvg-logo="https://epg.112114.xyz/logo/虎牙杰森·斯坦森.png" group-title="平台电影",虎牙-杰森·斯坦森
+#EXTINF:-1,tvg-id="虎牙-杰森·斯坦森" tvg-name="虎牙-杰森·斯坦森" tvg-logo="https://epg.112114.xyz/logo/虎牙杰森·斯坦森.png" group-title="虎牙电影",虎牙-杰森·斯坦森
 http://jiandjh.51vip.biz:35455/huya/21059588
-#EXTINF:-1,tvg-id="虎牙-喜剧专场" tvg-name="虎牙-喜剧专场" tvg-logo="https://epg.112114.xyz/logo/虎牙喜剧专场.png" group-title="平台电影",虎牙-喜剧专场
+#EXTINF:-1,tvg-id="虎牙-喜剧专场" tvg-name="虎牙-喜剧专场" tvg-logo="https://epg.112114.xyz/logo/虎牙喜剧专场.png" group-title="虎牙电影",虎牙-喜剧专场
 http://jiandjh.51vip.biz:35455/huya/11602044
-#EXTINF:-1,tvg-id="虎牙-甄子丹" tvg-name="虎牙-甄子丹" tvg-logo="https://epg.112114.xyz/logo/虎牙甄子丹.png" group-title="平台电影",虎牙-甄子丹
+#EXTINF:-1,tvg-id="虎牙-甄子丹" tvg-name="虎牙-甄子丹" tvg-logo="https://epg.112114.xyz/logo/虎牙甄子丹.png" group-title="虎牙电影",虎牙-甄子丹
 http://jiandjh.51vip.biz:35455/huya/11352935
-#EXTINF:-1,tvg-id="虎牙-巨石强森" tvg-name="虎牙-巨石强森" tvg-logo="https://epg.112114.xyz/logo/虎牙巨石强森.png" group-title="平台电影",虎牙-巨石强森
+#EXTINF:-1,tvg-id="虎牙-巨石强森" tvg-name="虎牙-巨石强森" tvg-logo="https://epg.112114.xyz/logo/虎牙巨石强森.png" group-title="虎牙电影",虎牙-巨石强森
 http://jiandjh.51vip.biz:35455/huya/21059581
-#EXTINF:-1,tvg-id="虎牙-洪金宝" tvg-name="虎牙-洪金宝" tvg-logo="https://epg.112114.xyz/logo/虎牙洪金宝.png" group-title="平台电影",虎牙-洪金宝
+#EXTINF:-1,tvg-id="虎牙-洪金宝" tvg-name="虎牙-洪金宝" tvg-logo="https://epg.112114.xyz/logo/虎牙洪金宝.png" group-title="虎牙电影",虎牙-洪金宝
 http://jiandjh.51vip.biz:35455/huya/11279251
-#EXTINF:-1,tvg-id="虎牙-詹姆斯邦德" tvg-name="虎牙-詹姆斯邦德" tvg-logo="https://epg.112114.xyz/logo/虎牙詹姆斯邦德.png" group-title="平台电影",虎牙-詹姆斯邦德
+#EXTINF:-1,tvg-id="虎牙-詹姆斯邦德" tvg-name="虎牙-詹姆斯邦德" tvg-logo="https://epg.112114.xyz/logo/虎牙詹姆斯邦德.png" group-title="虎牙电影",虎牙-詹姆斯邦德
 http://jiandjh.51vip.biz:35455/huya/21059585
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="NewTV",黑莓电影
 http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109022617018635&channel-id=ystenlive&Contentid=1000000004000019624
