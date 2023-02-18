@@ -5,5 +5,4 @@ EPG-电子节目单：<br>
 <a href="https://epg.112114.xyz">https://epg.112114.xyz</a> <br>
 <a href="http://epg.51zmt.top:8000">http://epg.51zmt.top:8000</a> <br>
 <br>
-<a href="https://www.aliyundrive.com/s/i3uMeYHZidF">手机TV播放软件</a> <br>
-提取码: hb26
+<a href="https://www.aliyundrive.com/s/yeVWt9wsEzT">手机TV播放软件</a>
