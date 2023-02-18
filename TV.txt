@@ -1,4 +1,4 @@
-🎈央视高清,#genre#
+央视高清,#genre#
 CCTV1综合,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-1H265_4000
 CCTV2财经,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-2H265_4000
 CCTV3综艺,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-3H265_4000
@@ -20,7 +20,7 @@ CCTV17农业农村,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-17_4000
 CHC家庭影院,http://jiandjh.51vip.biz:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
 CHC动作电影,http://jiandjh.51vip.biz:5678/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsCHC-HDH265_4000
-🎈湖南频道,#genre#
+湖南频道,#genre#
 湖南卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=00000110240130_1
 湖南都市,http://124.232.233.17:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
 湖南经视,http://124.232.233.17:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
@@ -32,7 +32,7 @@ CHC高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsCHC-HDH265_4000
 金鹰纪实,http://124.232.233.17:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?m3u8_level=2
 芒果乐搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?m3u8_level=2
-🍒卫视高清,#genre#
+卫视高清,#genre#
 江苏卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=jswsH265_4000
 北京卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=bjwsH265_4000
 东方卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=dfwsH265_4000
@@ -51,7 +51,7 @@ CHC高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsCHC-HDH265_4000
 吉林卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=jlwsH265_4000
 黑龙江卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hljwsH265_4000
 四川卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=scwsH265_40001
-🎨港澳台,#genre#
+港澳台,#genre#
 翡翠台,http://nas.jdshipin.com:8801/gdfc.php
 明珠台,http://nas.jdshipin.com:8801/gdmz.php
 私人影院,http://120.84.96.108:808/hls/24/index.m3u8
@@ -74,7 +74,7 @@ TVBS新聞,http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
 华视新聞,http://jiandjh.51vip.biz:35455/youtube/wM0g8EoUZ_E?quality=1080
 鏡新聞,http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
 新唐人,http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
-🐳斗鱼电影,#genre#
+斗鱼电影,#genre#
 斗鱼-特辑电影,http://jiandjh.51vip.biz:35455/douyu/3637778
 斗鱼-周末电影,http://jiandjh.51vip.biz:35455/douyu/3637726
 斗鱼-华语经典,http://jiandjh.51vip.biz:35455/douyu/434971
@@ -103,7 +103,7 @@ TVBS新聞,http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
 斗鱼-欧美大片,http://jiandjh.51vip.biz:35455/douyu/2793084
 斗鱼-国产影片,http://jiandjh.51vip.biz:35455/douyu/5423
 斗鱼-译制影片,http://jiandjh.51vip.biz:35455/douyu/2436390
-🐅虎牙电影,#genre#
+虎牙电影,#genre#
 虎牙-周星星,http://jiandjh.51vip.biz:35455/huya/11342412
 虎牙-林正英,http://jiandjh.51vip.biz:35455/huya/11342421
 虎牙-沈腾,http://jiandjh.51vip.biz:35455/huya/11601968
@@ -121,19 +121,3 @@ TVBS新聞,http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
 虎牙-巨石强森,http://jiandjh.51vip.biz:35455/huya/21059581
 虎牙-洪金宝,http://jiandjh.51vip.biz:35455/huya/11279251
 虎牙-詹姆斯邦德,http://jiandjh.51vip.biz:35455/huya/21059585
-🎞️NewTV,#genre#
-黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109022617018635&channel-id=ystenlive&Contentid=1000000004000019624
-超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2551020230109022704020265&channel-id=ystenlive&Contentid=1000000004000024993
-超级电影,http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2549620230109022740018032&channel-id=ystenlive&Contentid=1000000004000002120
-超级体育,http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2546620230109022756018322&channel-id=ystenlive&Contentid=1000000004000007755
-超级综艺,http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2551020230109022815020269&channel-id=ystenlive&Contentid=1000000004000023658
-动作电影,http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545820230109022837018680&channel-id=ystenlive&Contentid=1000000004000018653
-家庭剧场,http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545820230109022855018685&channel-id=ystenlive&Contentid=1000000004000008284
-金牌综艺,http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2547720230109022917018918&channel-id=ystenlive&Contentid=1000000004000026167
-惊悚悬疑,http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2551020230109022935020274&channel-id=ystenlive&Contentid=1000000004000024282
-精品大剧,http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109023003018636&channel-id=ystenlive&Contentid=1000000004000013968
-精品记录,http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2592820230109023034018203&channel-id=ystenlive&Contentid=1000000004000013730
-精品体育,http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2547820230109023300018966&channel-id=ystenlive&Contentid=1000000004000014634
-魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2547920230109023316016661&channel-id=ystenlive&Contentid=1000000001000006197
-明星大片,http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109023339018651&channel-id=ystenlive&Contentid=1000000004000019008
-炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2545620230109023401018657&channel-id=ystenlive&Contentid=1000000001000000515
