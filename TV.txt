@@ -54,6 +54,7 @@ CHC高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsCHC-HDH265_4000
 港澳台,#genre#
 翡翠台,http://nas.jdshipin.com:8801/gdfc.php
 明珠台,http://nas.jdshipin.com:8801/gdmz.php
+HBO強檔鉅獻,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 私人影院,http://120.84.96.108:808/hls/24/index.m3u8
 东森电影,http://120.84.96.108:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.108:808/hls/33/index.m3u8
@@ -75,7 +76,6 @@ TVBS新聞,http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
 鏡新聞,http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
 新唐人,http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
 斗鱼电影,#genre#
-斗鱼-特辑电影,http://jiandjh.51vip.biz:35455/douyu/3637778
 斗鱼-周末电影,http://jiandjh.51vip.biz:35455/douyu/3637726
 斗鱼-华语经典,http://jiandjh.51vip.biz:35455/douyu/434971
 斗鱼-吃米滴虫,http://jiandjh.51vip.biz:35455/douyu/315457

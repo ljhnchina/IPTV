@@ -103,6 +103,8 @@ http://jiandjh.51vip.biz:5678/sxg.php?id=scwsH265_40001
 http://nas.jdshipin.com:8801/gdfc.php
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://nas.jdshipin.com:8801/gdmz.php
+#EXTINF:-1,tvg-id="HBO強檔鉅獻" tvg-name="HBO強檔鉅獻" tvg-logo="https://epg.112114.xyz/logo/HBO強檔鉅獻.png" group-title="港澳台",HBO強檔鉅獻
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 #EXTINF:-1,tvg-id="私人影院" tvg-name="私人影院" tvg-logo="https://epg.112114.xyz/logo/私人影院.png" group-title="港澳台",私人影院
 http://120.84.96.108:808/hls/24/index.m3u8
 #EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
@@ -143,8 +145,6 @@ http://jiandjh.51vip.biz:35455/youtube/wM0g8EoUZ_E?quality=1080
 http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
 #EXTINF:-1,tvg-id="新唐人" tvg-name="新唐人" tvg-logo="https://epg.112114.xyz/logo/新唐人.png" group-title="港澳台",新唐人
 http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
-#EXTINF:-1,tvg-id="斗鱼-特辑电影" tvg-name="斗鱼-特辑电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼特辑电影.png" group-title="斗鱼电影",斗鱼-特辑电影
-http://jiandjh.51vip.biz:35455/douyu/3637778
 #EXTINF:-1,tvg-id="斗鱼-周末电影" tvg-name="斗鱼-周末电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼周末电影.png" group-title="斗鱼电影",斗鱼-周末电影
 http://jiandjh.51vip.biz:35455/douyu/3637726
 #EXTINF:-1,tvg-id="斗鱼-华语经典" tvg-name="斗鱼-华语经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语经典.png" group-title="斗鱼电影",斗鱼-华语经典
