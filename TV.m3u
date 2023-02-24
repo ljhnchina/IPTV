@@ -99,50 +99,6 @@ http://jiandjh.51vip.biz:5678/sxg.php?id=jlwsH265_4000
 http://jiandjh.51vip.biz:5678/sxg.php?id=hljwsH265_4000
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视高清",四川卫视
 http://jiandjh.51vip.biz:5678/sxg.php?id=scwsH265_40001
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://nas.jdshipin.com:8801/gdfc.php
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://nas.jdshipin.com:8801/gdmz.php
-#EXTINF:-1,tvg-id="私人影院" tvg-name="私人影院" tvg-logo="https://epg.112114.xyz/logo/私人影院.png" group-title="港澳台",私人影院
-http://120.84.96.108:808/hls/24/index.m3u8
-#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
-http://120.84.96.108:808/hls/32/index.m3u8
-#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
-http://120.84.96.108:808/hls/33/index.m3u8
-#EXTINF:-1,tvg-id="龙翔电影" tvg-name="龙翔电影" tvg-logo="https://epg.112114.xyz/logo/龙翔电影.png" group-title="港澳台",龙翔电影
-http://120.84.96.108:808/hls/35/index.m3u8
-#EXTINF:-1,tvg-id="东森新聞" tvg-name="东森新聞" tvg-logo="https://epg.112114.xyz/logo/东森新聞.png" group-title="港澳台",东森新聞
-http://jiandjh.51vip.biz:35455/youtube/R2iMq5LKXco?quality=1080
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
-http://jiandjh.51vip.biz:35455/youtube/WHEPzbFA3hw?quality=1080
-#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="港澳台",三立新聞
-http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
-#EXTINF:-1,tvg-id="三立新聞+" tvg-name="三立新聞+" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="港澳台",三立新聞+
-http://jiandjh.51vip.biz:35455/youtube/jlldIiGA5bU?quality=1080
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
-http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
-#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
-http://jiandjh.51vip.biz:35455/youtube/ylYJSBUgaMA?quality=1080
-#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
-http://jiandjh.51vip.biz:35455/youtube/B7Zp3d6xXWw?quality=1080
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
-http://jiandjh.51vip.biz:35455/youtube/TCnaIE_SAtM?quality=1080
-#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
-http://jiandjh.51vip.biz:35455/youtube/xL0ch83RAK8?quality=1080
-#EXTINF:-1,tvg-id="東森綜合" tvg-name="東森綜合" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="港澳台",東森綜合
-http://jiandjh.51vip.biz:35455/youtube/IS_FGyQY2tM?quality=1080
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://jiandjh.51vip.biz:35455/youtube/dmDg7NfUoSw?quality=1080
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
-http://jiandjh.51vip.biz:35455/youtube/_QbRXRnHMVY?quality=1080
-#EXTINF:-1,tvg-id="中天新聞2" tvg-name="中天新聞2" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞2
-http://jiandjh.51vip.biz:35455/youtube/WPfPjbOLNfE?quality=1080
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新聞
-http://jiandjh.51vip.biz:35455/youtube/wM0g8EoUZ_E?quality=1080
-#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
-http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
-#EXTINF:-1,tvg-id="新唐人" tvg-name="新唐人" tvg-logo="https://epg.112114.xyz/logo/新唐人.png" group-title="港澳台",新唐人
-http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
 #EXTINF:-1,tvg-id="斗鱼-周末电影" tvg-name="斗鱼-周末电影" tvg-logo="https://epg.112114.xyz/logo/斗鱼周末电影.png" group-title="斗鱼电影",斗鱼-周末电影
 http://jiandjh.51vip.biz:35455/douyu/3637726
 #EXTINF:-1,tvg-id="斗鱼-华语经典" tvg-name="斗鱼-华语经典" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语经典.png" group-title="斗鱼电影",斗鱼-华语经典
