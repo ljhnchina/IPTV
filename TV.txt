@@ -288,5 +288,4 @@ CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 百变课堂,http://jiandjh.51vip.biz:5678/bestv.php?id=bbkt8m/8000000
 看天下精选,http://jiandjh.51vip.biz:5678/bestv.php?id=ktxjx8m/8000000
 东方影视,http://jiandjh.51vip.biz:5678/bestv.php?id=dfyshd8m/8000000
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
