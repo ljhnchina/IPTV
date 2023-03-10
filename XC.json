@@ -6,7 +6,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://g.cyao.workers.dev/https://raw.githubusercontent.com/ljhnchina/IPTV/main/TV.txt",
+		    "url": "https://ghproxy.com/https://github.com/ljhnchina/IPTV/raw/main/TV.txt",
 		    "epg": "https://epg.112114.xyz/?ch={name}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
