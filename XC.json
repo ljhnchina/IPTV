@@ -7,7 +7,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://gh-proxy.com/https://github.com/ljhnchina/IPTV/raw/main/TV.txt",
-		    "epg": "https://epg.112114.xyz/?ch={name}&date={data}",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
